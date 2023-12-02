@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AG-Coding
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently in highschool
+- 🌱 I’m currently in College
 - 💞️ I’m looking to collaborate on some fun projects:)
 
 <!---
